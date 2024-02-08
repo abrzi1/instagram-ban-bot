@@ -13,6 +13,7 @@ this bot is linked with instagram verified accounts (legacy verified account not
 bot can ban any account in 10-60m 
 
 somes bans from bot and have more than 800+ bans
+![photo_2024-02-08_03-43-19](https://files.catbox.moe/ioc0dk.jpg)
 
 bot work without server/pc u can use it from your phone
 
