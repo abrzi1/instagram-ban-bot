@@ -12,10 +12,14 @@ this bot is linked with instagram verified accounts (legacy verified account not
 
 bot can ban any account in 10-60m 
 
-bot work without server/pc
+somes bans from bot and have more than 800+ bans
+
+bot work without server/pc u can use it from your phone
 
 bot working using discord
 
 if you want to b/uy lmk here
 
 https://t.me/rootabrzi
+
+
