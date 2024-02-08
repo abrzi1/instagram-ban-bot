@@ -8,6 +8,8 @@ new bot
 
 instagram ban bot 
 
+Simply put, the way the bot works is that the bot impersonate@s the person through official verified accounts, not new meta verification, and when it impersonate@s the account, it bans him or closes the account within a period of 10-60minutes  max
+
 this bot is linked with instagram verified accounts (legacy verified account not new meta verify)
 
 bot can ban any account in 10-60m 
@@ -45,6 +47,8 @@ somes bans from bot and have more than 800+ bans
 bot work without server/pc u can use it from your phone
 
 bot working using discord
+
+pric@s 1200$
 
 if you want to b/uy lmk here
 
