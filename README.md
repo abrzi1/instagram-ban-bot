@@ -1,4 +1,4 @@
-# instagram-mass-report-bot
+# instagram-impersonate@s-bot
  ban any instagram account in 10-60m ??
 
 
