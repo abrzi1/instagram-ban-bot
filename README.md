@@ -15,6 +15,10 @@ bot can ban any account in 10-60m
 somes bans from bot and have more than 800+ bans
 ![photo_2024-02-08_03-43-19](https://files.catbox.moe/ioc0dk.jpg)
 
+
+![photo_2024-02-08_03-43-19](https://files.catbox.moe/9svi64.jpg)
+
+
 bot work without server/pc u can use it from your phone
 
 bot working using discord
